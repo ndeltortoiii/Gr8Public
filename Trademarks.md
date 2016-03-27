@@ -23,6 +23,7 @@
   6. Right to bring legal action concerning mark in federal court
   7. Use registration as basis for foregin filing
   8. Able to use federal registration symbol: R
+  9. Ornamental / Decorative Matter
 
 3. Selecting a Trademark
   * Not every mark registers, refulal letter is office action
@@ -41,5 +42,21 @@
       * may have to destroy your inventory and small busienss 
     5. Hire a trademark attorney
   * Suggestive marks next best thing to arbitrary marks as they are inherintly distinct
-    
+  * Policing your mark
+  
 4. How to find help
+  * uspto.gov trademarks section application timeline
+  * does not provide legal advice, no pre-filing search, or trademark rights
+    * Up to you to protect infringement
+  * Advantages of hiring an attorny
+    1. Obtain or conduct:
+      * A pre-application clearance search
+    2. Interpret search results
+    3. Navigate the application process
+    4. Advise you on the best way to maintain and enforce your rights
+   * Other source of assistance
+     1. Free and reduced-price legal services
+     2. USPTO Law School Clinic program
+     3. SCORE program (small business organization) score.org
+     4. Patent and trademark resource center (PTRCs)
+     5. Free information on USPTO.gov
